@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "formulahendry.auto-rename-tag",
+    "coenraads.bracket-pair-colorizer",
+    "msjsdiag.debugger-for-chrome",
+    "mikestead.dotenv",
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "prisma.vscode-graphql",
+    "esbenp.prettier-vscode",
+    "jpoissonnier.vscode-styled-components",
+    "kavod-io.vscode-jest-test-adapter"
+  ]
+}

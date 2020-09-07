@@ -1,0 +1,10 @@
+- id: samarthdave
+  name: Samarth Dave
+  bio: Core Team Member at Go Apply
+  github: samarthdave
+  avatar: ./assets/samarthdave.jpg
+- id: cameronbrill
+  name: Cameron Brill
+  bio: Core Team Member at Go Apply
+  github: cameronbrill
+  avatar: ./assets/cameronbrill.jpg
