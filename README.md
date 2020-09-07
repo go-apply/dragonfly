@@ -1,17 +1,5 @@
 <p align="center">
-  <img src="https://sharedstorage2.blob.core.windows.net/pub/main-logo.png" alt="Go Apply">
-</p>
-
-<p align="center">
-  <a href="https://travis-ci.com/projectunic0rn/pub">
-    <img src="https://travis-ci.com/projectunic0rn/pub.svg" alt="Travis CI">
-  </a>
-  <a href="https://codecov.io/gh/projectunic0rn/pub">
-    <img src="https://codecov.io/gh/projectunic0rn/pub/branch/master/graph/badge.svg" />
-  </a>
-  <a href="https://projectunicorn.net/">
-    <img src="https://img.shields.io/badge/website-https://projectunicorn.net/-blue.svg" alt="Go Apply Blog">
-  </a>
+  <img src="/src/images/logo.png" alt="Go Apply">
 </p>
 
 <br />
